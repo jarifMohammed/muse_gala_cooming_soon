@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import logo from './assets/logo.png'
+import logo from './assets/logo.svg'
 
 // Hero image hosted on Cloudinary with auto-format (f_auto) and auto-quality (q_auto) optimizations
 const heroImage = 'https://res.cloudinary.com/dmhbf8kc7/image/upload/f_auto,q_auto/v1770207607/WhatsApp_Image_2026-02-04_at_18.04.01_qdvpq8.jpg'
