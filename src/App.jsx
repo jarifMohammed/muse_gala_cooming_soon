@@ -6,7 +6,7 @@ import logo from './assets/logo.svg'
 const heroImage = 'https://res.cloudinary.com/dmhbf8kc7/image/upload/f_auto,q_auto/v1770207607/WhatsApp_Image_2026-02-04_at_18.04.01_qdvpq8.jpg'
 
 // API configuration
-const API_URL = 'https://api.musegala.com.au'
+const API_URL = 'https://topo-creates-backend.onrender.com'
 
 function App() {
   const [email, setEmail] = useState('')
