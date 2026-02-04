@@ -1,0 +1,32 @@
+/* Fonts are now handled via system stack prioritized for Avenir */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text-dark: #1a1a1a;
+  --text-muted: #666666;
+  --border-color: #1a1a1a;
+  --bg-light: #fafafa;
+  --success-color: #10b981;
+  --error-color: #dc2626;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Avenir", sans-serif;
+  background-color: var(--bg-light);
+  color: var(--text-dark);
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100%;
+}
