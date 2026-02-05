@@ -76,7 +76,7 @@ function App() {
 
         {/* Subtitle */}
         <p className="subtitle ">
-          We're setting the scene. Something amazing is on the way.
+          We're setting the scene. The dresses are waiting.
           Join the list before the doors open.
         </p>
 
